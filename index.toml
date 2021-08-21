@@ -1,0 +1,145 @@
+hash-format = "sha256"
+
+[[files]]
+file = "kubejs/server_scripts/remove_remotes.js"
+hash = "0dc9f3df5c439530631afa1c83b70628855666cec9572fa771123f64c2b513df"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "7ed815e93a1d11ea2f6d3f788ecb7fc6c9e14055a9b5a0c7a14e038f95150d0d"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "023c08a6729a63f3dbf6c5aefea0f98ad280743c4006783800bc92051a6eedd8"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "e8c451cfe67c2252903daa7e89d076fb7428f3932aad01758396d51c743e2ece"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "b46b9c3c96d40e0ec5f61af8bcbee521ad74a66927495d9a45139bebbc7d8768"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "b31e36a0365b7e917cbdc688c34a2b48936072b45607c9574bd167502d8dd0c3"
+metafile = true
+
+[[files]]
+file = "mods/curios.toml"
+hash = "f2b3bddfc655c109607b50d3d762a3d6785bb4afd86ad1a578e99217023c5ea9"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "0802907de3dfc4c15de546db252068e288f6ccca065f3db73db0d9ed35bfc5f9"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.toml"
+hash = "bfb542c0790cab89c6b59fd3c657af2958c52e2956032cc8dd9eb7246953d765"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.toml"
+hash = "3c4bd7079e974b4e820b9eea9f10fbcaedb616ab7c00d56d0a1964fbfd4ca2b9"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.toml"
+hash = "f7561d920bed3a5ec6af2979e1975913cebb6761f0e16bc97e4e9b664b0b38ce"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.toml"
+hash = "011c64b35ba7fbf9dec6e0f54147d70a2ef39407e40ca70e565d3b49cf317d7e"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.toml"
+hash = "715114754926007a907eed6da7ccbf39d36430e9e40a40ae225637d7431be613"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "2c722b1706c01ff5a74888d93359a75374531d82429d9d757352add16b2ac456"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "791878a01eef907b81b5ccdb70def1ba97490eef866bea02934992951e604871"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "91ce9451fc2860bc7c833b28f9b72d7e303973bf85c61cf555117473b8be6681"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "2e4a4fd036eb14ad5539740ec4e838d2c6c53fe2111abcf0306c041cc72b142a"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "aead5642678adffe40b7bf38fa0ec5751b17038ff9f871c9cba283e2880db4df"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "11c84f95bbd7329c9bc6865777914c06eeb73cc0b39a4b254c0ccd7a0b35f927"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.toml"
+hash = "17288bb6874a9c051d20186ce2bbad23ef160bd4c4d7d27ae35dcc2a91bd59f0"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.toml"
+hash = "120b023d63cb3ee9908517dc1e8f9464c174cacc0210bb5ffee84f3648085e1c"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "06b95c31df26a4b15f96eded5b4764528ba254a5ca0d58c8900867ef1e7c5901"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "1cf331637e4b299716391a63fb9dc37e1678104e48f5a27ad57a06d5ad0bab2e"
+metafile = true

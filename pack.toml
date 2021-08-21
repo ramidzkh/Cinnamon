@@ -1,0 +1,12 @@
+name = "Cinnamon"
+author = "ramidzkh"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3fdb40b21baa8bbb092b223a07c1b78bcc4f47c9ef12d1f12508f506a8eac52c"
+
+[versions]
+forge = "36.2.2"
+minecraft = "1.16.5"

@@ -1,0 +1,14 @@
+name = "FTB Library (Forge)"
+filename = "ftb-library-forge-1605.3.2-build.64.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3431/978/ftb-library-forge-1605.3.2-build.64.jar"
+hash-format = "murmur2"
+hash = "726280558"
+
+[update]
+[update.curseforge]
+file-id = 3431978
+project-id = 404465
+release-channel = "beta"

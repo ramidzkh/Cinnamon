@@ -1,0 +1,14 @@
+name = "FTB Teams (Forge)"
+filename = "ftb-teams-forge-1605.2.1-build.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3409/580/ftb-teams-forge-1605.2.1-build.20.jar"
+hash-format = "murmur2"
+hash = "2350296286"
+
+[update]
+[update.curseforge]
+file-id = 3409580
+project-id = 404468
+release-channel = "beta"
