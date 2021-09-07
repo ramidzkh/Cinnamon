@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "7ed815e93a1d11ea2f6d3f788ecb7fc6c9e14055a9b5a0c7a14e038f95150d0d"
+hash = "6ea0538e4af05279bd88256ee5baf4b3c77400e46b1358e95f04242a1cd9514e"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.toml"
-hash = "bfb542c0790cab89c6b59fd3c657af2958c52e2956032cc8dd9eb7246953d765"
+hash = "18ff59e9d72d9be1b9e98d0eb8f72520a128817fdc07135329b44e152f009a40"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.toml"
-hash = "011c64b35ba7fbf9dec6e0f54147d70a2ef39407e40ca70e565d3b49cf317d7e"
+hash = "815eb4f388814e5846346b0fd2f6eab90194419efb8fca6ec371e224b523d266"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
+hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "791878a01eef907b81b5ccdb70def1ba97490eef866bea02934992951e604871"
+hash = "791240d2f9fdda1fa0426558c53f263f6e919ecd56ddb41231434f98664cb3f6"
 metafile = true
 
 [[files]]
@@ -101,7 +101,17 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.toml"
-hash = "2e4a4fd036eb14ad5539740ec4e838d2c6c53fe2111abcf0306c041cc72b142a"
+hash = "27c6f8450c1535037091cd988a4b9adb09f75ee2c770b64c11ed2b22ec7b9413"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "8a14383d0c0edbf509aa8194887e3e18f297408fa1097c5fe32590f6573edf33"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.toml"
+hash = "2cad30bfcdef286dfd5d381de3d435644c7a418937a08e8cc34077fd459f2676"
 metafile = true
 
 [[files]]
@@ -121,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "11c84f95bbd7329c9bc6865777914c06eeb73cc0b39a4b254c0ccd7a0b35f927"
+hash = "71d551bba4e59a81f81f6df6a486b57b10c39f87ecd7eddacbebbb9f171fe59d"
 metafile = true
 
 [[files]]
@@ -141,5 +151,5 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.toml"
-hash = "1cf331637e4b299716391a63fb9dc37e1678104e48f5a27ad57a06d5ad0bab2e"
+hash = "61752c98066af76481ef56ea513f26e083e72bd759601a950148e7d481e9dbda"
 metafile = true
