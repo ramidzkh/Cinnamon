@@ -2,11 +2,20 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/remove_remotes.js"
-hash = "0dc9f3df5c439530631afa1c83b70628855666cec9572fa771123f64c2b513df"
+hash = "9312f6ba144aa78f8968afd350d888ac005c86964fa2e3f33b32e367dfa6d71f"
+
+[[files]]
+file = "kubejs/server_scripts/twilight_forest.js"
+hash = "7c5cc81b23d8d1cec75a48e1e6a72106af44f3ddce9c3db0ca84247bbb05c7cd"
 
 [[files]]
 file = "mods/appleskin.toml"
 hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "3d5be681e29be0270a461c1441d2844fd18cd7fc7a3ced7c8607e51ca0285aa6"
 metafile = true
 
 [[files]]
