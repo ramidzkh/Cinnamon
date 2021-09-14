@@ -39,6 +39,11 @@ hash = "023c08a6729a63f3dbf6c5aefea0f98ad280743c4006783800bc92051a6eedd8"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.toml"
+hash = "ddf074d875f2ae1e320860e8ca375e0773a2ec7fb39a47e90c5b01f4b8564704"
+metafile = true
+
+[[files]]
 file = "mods/chisel.toml"
 hash = "e8c451cfe67c2252903daa7e89d076fb7428f3932aad01758396d51c743e2ece"
 metafile = true
