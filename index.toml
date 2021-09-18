@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/data/botania/orechid_ore_weights/orechid.json"
-hash = "f43bef48cf66c324818e41cd3e4823f27f469dab5b01d92ed9881b33772f0aaa"
+hash = "b4080fcf3afd93a1b8cad926c40473a6627b28ea22c58bbe29dbebe009fb1ef0"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/sky_stone_block.json"
-hash = "68c7d12a16e9a2091f8ad762bfb6074df617497a2fcdc918344908f791229a25"
+hash = "947ddae4ee5bdbf18eb72b397b283d8606b597495298d26c057e0c0802cd4e93"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/smeltry/casting/calculation_processor_press.json"
