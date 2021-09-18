@@ -85,6 +85,11 @@ hash = "f2b3bddfc655c109607b50d3d762a3d6785bb4afd86ad1a578e99217023c5ea9"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.toml"
+hash = "f4da10f24f177f0379afac8a3f548f789fc7ebbc2e2a59239b9373275ce270a9"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.toml"
 hash = "0802907de3dfc4c15de546db252068e288f6ccca065f3db73db0d9ed35bfc5f9"
 metafile = true
