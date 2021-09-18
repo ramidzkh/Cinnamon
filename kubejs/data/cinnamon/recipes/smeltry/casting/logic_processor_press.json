@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "forge:ingots/gold"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:molten_netherite",
+    "amount": 144
+  },
+  "result": "appliedenergistics2:logic_processor_press",
+  "cooling_time": 200
+}

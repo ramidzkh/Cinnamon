@@ -1,12 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/server_scripts/remove_remotes.js"
-hash = "9312f6ba144aa78f8968afd350d888ac005c86964fa2e3f33b32e367dfa6d71f"
+file = "kubejs/data/botania/orechid_ore_weights/orechid.json"
+hash = "f43bef48cf66c324818e41cd3e4823f27f469dab5b01d92ed9881b33772f0aaa"
 
 [[files]]
-file = "kubejs/server_scripts/twilight_forest.js"
-hash = "7c5cc81b23d8d1cec75a48e1e6a72106af44f3ddce9c3db0ca84247bbb05c7cd"
+file = "kubejs/data/cinnamon/recipes/sky_stone_block.json"
+hash = "68c7d12a16e9a2091f8ad762bfb6074df617497a2fcdc918344908f791229a25"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/smeltry/casting/calculation_processor_press.json"
+hash = "81823a91035131e704b6c8f6de1691e6e947aeb3f2a1d1d2b9eae3c275336a4e"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/smeltry/casting/engineering_processor_press.json"
+hash = "628cc98caed87a4dff65a4f89fcda2ebf05c4d4cd4ea702b6f57a0a9d8e3bba6"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/smeltry/casting/logic_processor_press.json"
+hash = "266ddd480b4e025a94e8a5560e3dc76a0255a49f36aa4bf342e0c6937b5867b0"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/smeltry/casting/silicon_processor_press.json"
+hash = "20419d9adeedf4103090cfb90688b91d14eaba027e542c21b149c441cf065776"
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -144,6 +160,11 @@ hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.toml"
+hash = "968f01352c6469389fc09d8cef9f7b52c822326e9306cac1e364bb4da63717e5"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "aead5642678adffe40b7bf38fa0ec5751b17038ff9f871c9cba283e2880db4df"
 metafile = true
@@ -166,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.toml"
 hash = "120b023d63cb3ee9908517dc1e8f9464c174cacc0210bb5ffee84f3648085e1c"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.toml"
-hash = "06b95c31df26a4b15f96eded5b4764528ba254a5ca0d58c8900867ef1e7c5901"
 metafile = true
 
 [[files]]

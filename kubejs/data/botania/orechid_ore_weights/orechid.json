@@ -1,0 +1,14 @@
+{
+  "values": [
+    {
+      "type": "tag",
+      "tag": "forge:ores/certus_quartz",
+      "weight": 29371 
+    },
+    {
+      "type": "tag",
+      "tag": "forge:ores/fluorite",
+      "weight": 14324
+    }
+  ]
+}
