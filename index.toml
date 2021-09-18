@@ -25,6 +25,11 @@ file = "kubejs/data/cinnamon/recipes/smeltry/casting/silicon_processor_press.jso
 hash = "20419d9adeedf4103090cfb90688b91d14eaba027e542c21b149c441cf065776"
 
 [[files]]
+file = "mods/angel-block.toml"
+hash = "38f2ca232933dedf0eb5fe6607767730fa2e10f4186404d261732125f3d5e83e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
 metafile = true
