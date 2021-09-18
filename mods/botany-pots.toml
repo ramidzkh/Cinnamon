@@ -1,0 +1,14 @@
+name = "Botany Pots"
+filename = "BotanyPots-1.16.5-7.1.24.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3445/428/BotanyPots-1.16.5-7.1.24.jar"
+hash-format = "murmur2"
+hash = "4104500106"
+
+[update]
+[update.curseforge]
+file-id = 3445428
+project-id = 353928
+release-channel = "beta"

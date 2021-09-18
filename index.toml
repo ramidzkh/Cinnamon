@@ -50,6 +50,11 @@ hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.toml"
+hash = "1ab30d24994c6c47e3da9a7b2b3d1a978ee8823e32a57a374dfd7e99a0768235"
+metafile = true
+
+[[files]]
 file = "mods/botania-garden-of-glass.toml"
 hash = "3c8e3fe505a4104f8f8d89eb892ad90de167d72be36e552e7b34849425b2e3da"
 metafile = true
@@ -57,6 +62,16 @@ metafile = true
 [[files]]
 file = "mods/botania.toml"
 hash = "023c08a6729a63f3dbf6c5aefea0f98ad280743c4006783800bc92051a6eedd8"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.toml"
+hash = "656d4a9b6c5565cc68a487f7bd86e276e19287176b542dc4872f0170d23784bb"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.toml"
+hash = "9a3f538c318a239a45bc8dc7977354dfda55a79617f7abffc831818d56e54c38"
 metafile = true
 
 [[files]]
