@@ -1,0 +1,14 @@
+name = "Titanium"
+filename = "titanium-1.16.5-3.2.8.5-20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3446/253/titanium-1.16.5-3.2.8.5-20.jar"
+hash-format = "murmur2"
+hash = "3046559515"
+
+[update]
+[update.curseforge]
+file-id = 3446253
+project-id = 287342
+release-channel = "beta"

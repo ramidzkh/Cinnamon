@@ -140,6 +140,11 @@ hash = "715114754926007a907eed6da7ccbf39d36430e9e40a40ae225637d7431be613"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.toml"
+hash = "3e734af28929938f6639f21250db2bac40deff16b0843bb3a513bc11e6865209"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
 metafile = true
@@ -217,4 +222,9 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.toml"
 hash = "61752c98066af76481ef56ea513f26e083e72bd759601a950148e7d481e9dbda"
+metafile = true
+
+[[files]]
+file = "mods/titanium.toml"
+hash = "3f4c3628eef77ccf24f5a4be77518f586c2361a7d0162a9c998f609145e511a9"
 metafile = true
