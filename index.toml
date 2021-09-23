@@ -90,6 +90,16 @@ hash = "b46b9c3c96d40e0ec5f61af8bcbee521ad74a66927495d9a45139bebbc7d8768"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.toml"
+hash = "a40fa57086a6bc7737bf6dcda0348a913c13861ed267157189f75f4891161bbc"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.toml"
+hash = "0b84255eb5aff2987671a6bec361d6bec1b328723ac12e46a0e9b6bcaeb75e54"
+metafile = true
+
+[[files]]
 file = "mods/create.toml"
 hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
 metafile = true
