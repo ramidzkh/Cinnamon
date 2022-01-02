@@ -1,14 +1,14 @@
 name = "Bookshelf"
-filename = "Bookshelf-Forge-1.16.5-10.2.28.jar"
+filename = "Bookshelf-Forge-1.16.5-10.3.29.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3459/818/Bookshelf-Forge-1.16.5-10.2.28.jar"
+url = "https://edge.forgecdn.net/files/3474/499/Bookshelf-Forge-1.16.5-10.3.29.jar"
 hash-format = "murmur2"
-hash = "2100889102"
+hash = "3146577677"
 
 [update]
 [update.curseforge]
-file-id = 3459818
+file-id = 3474499
 project-id = 228525
 release-channel = "beta"

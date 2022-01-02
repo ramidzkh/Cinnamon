@@ -1,14 +1,14 @@
 name = "Botania"
-filename = "Botania-1.16.5-419.jar"
+filename = "Botania-1.16.5-420.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3386/883/Botania-1.16.5-419.jar"
+url = "https://edge.forgecdn.net/files/3551/83/Botania-1.16.5-420.1.jar"
 hash-format = "murmur2"
-hash = "165990656"
+hash = "3871946500"
 
 [update]
 [update.curseforge]
-file-id = 3386883
+file-id = 3551083
 project-id = 225643
 release-channel = "beta"

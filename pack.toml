@@ -1,11 +1,12 @@
 name = "Cinnamon"
 author = "ramidzkh"
 version = "1.0.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "80ee47e1e33d3955b16b70672cd05b45ec1e0de463abf8400cb7c6def71be3a2"
+hash = "471f3ac9f37fade40ebcfd9021c99bf40221dc8a4b817f81801c9355069374b4"
 
 [versions]
 forge = "36.2.2"

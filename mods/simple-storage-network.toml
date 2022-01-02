@@ -1,14 +1,14 @@
 name = "Simple Storage Network"
-filename = "SimpleStorageNetwork-1.16.5-1.4.0.jar"
+filename = "SimpleStorageNetwork-1.16.5-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3388/232/SimpleStorageNetwork-1.16.5-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/3476/575/SimpleStorageNetwork-1.16.5-1.5.0.jar"
 hash-format = "murmur2"
-hash = "1905959858"
+hash = "154747691"
 
 [update]
 [update.curseforge]
-file-id = 3388232
+file-id = 3476575
 project-id = 268495
 release-channel = "beta"

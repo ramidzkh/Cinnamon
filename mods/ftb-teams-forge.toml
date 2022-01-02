@@ -1,14 +1,14 @@
 name = "FTB Teams (Forge)"
-filename = "ftb-teams-forge-1605.2.2-build.24.jar"
+filename = "ftb-teams-forge-1605.2.3-build.40.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3453/698/ftb-teams-forge-1605.2.2-build.24.jar"
+url = "https://edge.forgecdn.net/files/3535/953/ftb-teams-forge-1605.2.3-build.40.jar"
 hash-format = "murmur2"
-hash = "3719209000"
+hash = "673437470"
 
 [update]
 [update.curseforge]
-file-id = 3453698
+file-id = 3535953
 project-id = 404468
 release-channel = "beta"
