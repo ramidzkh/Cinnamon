@@ -29,8 +29,16 @@ file = "kubejs/data/cinnamon/recipes/orechid/deepslate_osmium_ore.json"
 hash = "6d783680b9ee6370790c1779c3216587525f75ab179266466783e9a48ddd4045"
 
 [[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/deepslate_tin_ore.json"
+hash = "06ec9bf0118a9e6b488cde1fc207e75ffee48c7dd5f234dd9025e993a3d376c3"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/osmium_ore.json"
 hash = "cf05a6dfd2cf6b119dccacea3daf4ab3f180d758ac6355de594347c8ea747ed7"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/tin_ore.json"
+hash = "606d93577f9400bce02ab04197cc3074c8b0adb97ae3e811e53d092a633e48e3"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid_ignem/fluorite_ore.json"
@@ -66,7 +74,7 @@ hash = "9359487ebc621dc4f2f2e52aaaf80f8810a2ad1f5e5fb83ff54ba093f187f1a0"
 
 [[files]]
 file = "kubejs/server_scripts/botania_integration.js"
-hash = "420ac1e2d902fc54f059ccba1839452dc42968c9a3ad6e7b04f1d9bb2970a546"
+hash = "83af353581ec389d00b9dc2e778f7b0fef2ea7dd75e749b51cc45172229cdf8e"
 
 [[files]]
 file = "kubejs/server_scripts/create_integration.js"

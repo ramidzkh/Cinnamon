@@ -1,5 +1,6 @@
 onEvent('recipes', event => {
     event.replaceInput({id: 'mekanism:teleportation_core'}, 'minecraft:diamond', 'botania:rune_greed');
+    event.replaceInput({id: 'mekanismgenerators:generator/heat'}, 'minecraft:iron_ingot', 'mekanism:ingot_steel');
 
     event.remove({id: 'botania:runic_altar/greed'});
 
