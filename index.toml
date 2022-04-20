@@ -1,28 +1,76 @@
 hash-format = "sha256"
 
 [[files]]
-file = "kubejs/data/botania/orechid_ore_weights/orechid.json"
-hash = "b4080fcf3afd93a1b8cad926c40473a6627b28ea22c58bbe29dbebe009fb1ef0"
+file = "kubejs/data/cinnamon/recipes/mana_infusion/controller.json"
+hash = "d9e223281dbe3afb31a5f0f6fb800a3ee8aa7f9fa432a3f89fe599b04592d79d"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/mana_infusion/energy_acceptor.json"
+hash = "6b75cd65b77f4aa066f9011ed41ccbb11fe739e55404b0c67dd46939192c90f5"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/mana_infusion/kelp_to_seagrass.json"
+hash = "bfc21360a92b3c811c76b8a396b5357f9db911dc1012b8bca8d5e1ca6742d9be"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/mana_infusion/seagrass_to_kelp.json"
+hash = "0566a090ccfc6beec1fa79b24305f78feec7decfdfbd69b7cd9c9b6ac3b5e2e9"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/certus_quartz_ore.json"
+hash = "2e540ee5df4ead6965bb691a7b3e9b9e8fa891e1f68619e4bc33bcccc99ed1fa"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/deepslate_certus_quartz_ore.json"
+hash = "7affe2682dd05378373608768537a1399fca9c7127ff53167f221d378e8f699a"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/deepslate_osmium_ore.json"
+hash = "6d783680b9ee6370790c1779c3216587525f75ab179266466783e9a48ddd4045"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/osmium_ore.json"
+hash = "cf05a6dfd2cf6b119dccacea3daf4ab3f180d758ac6355de594347c8ea747ed7"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid_ignem/fluorite_ore.json"
+hash = "e632ddda6500a5ff232e6f5b45951821724fde147715bbd4ef2ace8bbff7eb94"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid_ignem/uranium_ore.json"
+hash = "17bdaa39e2289f2de21d287e3e4de7a212ab794bdc573ceaca4f4a49a87c1420"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/runic_altar/greed.json"
+hash = "e774bdb06ab1274b18edeeea7e96edc132482826ed425cd69914b7ac848989f1"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/sky_stone_block.json"
-hash = "947ddae4ee5bdbf18eb72b397b283d8606b597495298d26c057e0c0802cd4e93"
+hash = "34fdf49ae25ee8346432ad48a8a1cf3643a0f5ff31d623a98bd4afe29a15d685"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/smeltry/casting/calculation_processor_press.json"
-hash = "81823a91035131e704b6c8f6de1691e6e947aeb3f2a1d1d2b9eae3c275336a4e"
+hash = "22ae0fc21a519b8cc59a5539e6b928683a6ce9373217196dc411ef81a5ba8ecd"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/smeltry/casting/engineering_processor_press.json"
-hash = "628cc98caed87a4dff65a4f89fcda2ebf05c4d4cd4ea702b6f57a0a9d8e3bba6"
+hash = "1d6c7b7492da225fbf11de8254272e7f9efd25cc89f0d0d3c4a523732b102bc3"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/smeltry/casting/logic_processor_press.json"
-hash = "266ddd480b4e025a94e8a5560e3dc76a0255a49f36aa4bf342e0c6937b5867b0"
+hash = "123650a2f17703574994618807e1927af4cdb6ca5adf07642db9afcef3cae3e8"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/smeltry/casting/silicon_processor_press.json"
-hash = "20419d9adeedf4103090cfb90688b91d14eaba027e542c21b149c441cf065776"
+hash = "9359487ebc621dc4f2f2e52aaaf80f8810a2ad1f5e5fb83ff54ba093f187f1a0"
+
+[[files]]
+file = "kubejs/server_scripts/botania_integration.js"
+hash = "489f1d4bf965ee44944ca51debf84a7cf9041db1c28a445b9ecaa622f9e26666"
+
+[[files]]
+file = "kubejs/server_scripts/create_integration.js"
+hash = "2672f0cb735eefd89d7ccdede32ca28566a8ee252aab767ead599f20e85f3fa1"
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -125,13 +173,18 @@ hash = "3cbc2648af42615ae3caf4282f5abaecc38b729851d6ed0d1eea226c7b55c7cf"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.toml"
+hash = "7038dd99c8464ea491677c0d3d6aa959d00bdc37d2c7e3ff235a69c53707a02d"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.toml"
 hash = "6a92c40512318020e2dc0e073c8d857174657db5a7ef6cfa591f8311f1a30c2a"
 metafile = true
 
 [[files]]
 file = "mods/jade.toml"
-hash = "d20584db17df08c68385e6cbd713703390f34167127834a6cc20a85bd3503ac6"
+hash = "06d3187474cde9cc31abec6a6986964c021cf42687b0e3319b91a28925d26a2c"
 metafile = true
 
 [[files]]
@@ -141,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "1c3555712d6e5ebab064b9e2f6fe0d99180168fa85a40384ce62f66d2ebfdf00"
+hash = "04fc5609fda49149c5ae36fb1c067de8cb8b6f0036dd1d5f99c0008f7a2eb96b"
 metafile = true
 
 [[files]]
@@ -156,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.toml"
-hash = "00cd05de92af5887c9c1460cfbd01325baf0c9a6bdde34e651ada96a2a01030f"
+hash = "c905e0a4e644a2f36156418628c039447f446f5a5d7152cef26026b936776d4a"
 metafile = true
 
 [[files]]
@@ -206,5 +259,5 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.toml"
-hash = "61dec0edfedff1e86a2b5adb9f794a3de390c455292803a84951a0f330204b1d"
+hash = "1c20e676de339a9d82d5af0fd659f152720dcab5376aac027cff3d1256f32601"
 metafile = true

@@ -1,13 +1,13 @@
 {
   "type": "tconstruct:casting_table",
   "cast": {
-    "tag": "appliedenergistics2:silicon"
+    "tag": "forge:silicon"
   },
   "cast_consumed": true,
   "fluid": {
     "tag": "tconstruct:molten_netherite",
-    "amount": 144
+    "amount": 90
   },
-  "result": "appliedenergistics2:silicon_press",
+  "result": "ae2:silicon_press",
   "cooling_time": 200
 }

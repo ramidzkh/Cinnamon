@@ -1,13 +1,8 @@
 name = "Tinkers Construct"
-filename = "TConstruct-1.18.1-3.4.2.60.jar"
+filename = "TConstruct-1.18.2-3.5.0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3693/992/TConstruct-1.18.1-3.4.2.60.jar"
+url = "https://dvs1.progwml6.com/files/maven/slimeknights/tconstruct/TConstruct/1.18.2-3.5.0.6/TConstruct-1.18.2-3.5.0.6.jar"
 hash-format = "sha1"
-hash = "d94f56e5c0e4abb39667cc0966f8da4963cf1626"
-
-[update]
-[update.curseforge]
-file-id = 3693992
-project-id = 74072
+hash = "1838ddd8eec03cafb66c0bf38ce7ead6cc515748"

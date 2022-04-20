@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "minecraft:seagrass"
+  },
+  "output": {
+    "item": "minecraft:kelp"
+  },
+  "mana": 200,
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  }
+}

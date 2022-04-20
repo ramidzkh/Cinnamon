@@ -6,8 +6,8 @@
   "cast_consumed": true,
   "fluid": {
     "tag": "tconstruct:molten_netherite",
-    "amount": 144
+    "amount": 90
   },
-  "result": "appliedenergistics2:logic_processor_press",
+  "result": "ae2:logic_processor_press",
   "cooling_time": 200
 }

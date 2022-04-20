@@ -1,13 +1,13 @@
 {
   "type": "tconstruct:casting_table",
   "cast": {
-    "tag": "appliedenergistics2:crystals/certus"
+    "tag": "forge:gems/certus_quartz"
   },
   "cast_consumed": true,
   "fluid": {
     "tag": "tconstruct:molten_netherite",
-    "amount": 144
+    "amount": 90
   },
-  "result": "appliedenergistics2:calculation_processor_press",
+  "result": "ae2:calculation_processor_press",
   "cooling_time": 200
 }

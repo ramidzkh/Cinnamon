@@ -1,13 +1,8 @@
 name = "Mantle"
-filename = "Mantle-1.18.1-1.8.37.jar"
+filename = "Mantle-1.18.2-1.9.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3693/897/Mantle-1.18.1-1.8.37.jar"
+url = "https://dvs1.progwml6.com/files/maven/slimeknights/mantle/Mantle/1.18.2-1.9.18/Mantle-1.18.2-1.9.18.jar"
 hash-format = "sha1"
-hash = "72f851cf2ca35b5dff82d6e91566012a90e624b4"
-
-[update]
-[update.curseforge]
-file-id = 3693897
-project-id = 74924
+hash = "8473277988097e270734318c2422695a8f21f857"

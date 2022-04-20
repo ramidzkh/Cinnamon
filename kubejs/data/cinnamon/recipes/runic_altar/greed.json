@@ -1,0 +1,24 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "botania:rune_greed"
+  },
+  "mana": 12000,
+  "ingredients": [
+    {
+      "tag": "botania:mana_diamond_gems"
+    },
+    {
+      "tag": "botania:mana_diamond_gems"
+    },
+    {
+      "item": "botania:rune_spring"
+    },
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "tag": "forge:ingots/netherite"
+    }
+  ]
+}
