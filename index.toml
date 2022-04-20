@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.toml"
-hash = "c905e0a4e644a2f36156418628c039447f446f5a5d7152cef26026b936776d4a"
+hash = "7d6bbc14a7696dddb7c9785cbd96de87cbdbb8c3ad11700b6858405c60398789"
 metafile = true
 
 [[files]]
@@ -259,5 +259,5 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.toml"
-hash = "1c20e676de339a9d82d5af0fd659f152720dcab5376aac027cff3d1256f32601"
+hash = "19df2347d3154fd3725b00b01f4105bb7415192e16bfe080e729997807e093dc"
 metafile = true
