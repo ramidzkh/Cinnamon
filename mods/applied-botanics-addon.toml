@@ -1,0 +1,13 @@
+name = "Applied Botanics Addon"
+filename = "Applied-Botanics-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3755/467/Applied-Botanics-1.0.0.jar"
+hash-format = "sha1"
+hash = "40c0ae79787eeffc29ee5f1712c3e5086beec00a"
+
+[update]
+[update.curseforge]
+file-id = 3755467
+project-id = 610632

@@ -1,0 +1,13 @@
+name = "Applied Mekanistics"
+filename = "Applied-Mekanistics-1.1.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3741/573/Applied-Mekanistics-1.1.1-beta.jar"
+hash-format = "sha1"
+hash = "306f87d87ce56a9e0e947a2817c89e054bca43f9"
+
+[update]
+[update.curseforge]
+file-id = 3741573
+project-id = 574300

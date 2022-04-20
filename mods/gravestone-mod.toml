@@ -1,14 +1,13 @@
 name = "GraveStone Mod"
-filename = "gravestone-1.16.5-1.0.7.jar"
+filename = "gravestone-1.18.2-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3447/911/gravestone-1.16.5-1.0.7.jar"
-hash-format = "murmur2"
-hash = "3108101030"
+url = "https://edge.forgecdn.net/files/3713/957/gravestone-1.18.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "39a226e85c5407e436811b71590d8126b5cdb66f"
 
 [update]
 [update.curseforge]
-file-id = 3447911
+file-id = 3713957
 project-id = 238551
-release-channel = "beta"

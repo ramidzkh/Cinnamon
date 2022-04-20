@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-1.18.1-4.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3681/458/Jade-1.18.1-4.4.1.jar"
+hash-format = "sha1"
+hash = "14cc55499d14a09b548f7138a7b2428df7578e31"
+
+[update]
+[update.curseforge]
+file-id = 3681458
+project-id = 324717

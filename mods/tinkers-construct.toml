@@ -1,14 +1,13 @@
 name = "Tinkers Construct"
-filename = "TConstruct-1.16.5-3.3.2.324.jar"
+filename = "TConstruct-1.18.1-3.4.2.60.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3576/393/TConstruct-1.16.5-3.3.2.324.jar"
-hash-format = "murmur2"
-hash = "3180703136"
+url = "https://edge.forgecdn.net/files/3693/992/TConstruct-1.18.1-3.4.2.60.jar"
+hash-format = "sha1"
+hash = "d94f56e5c0e4abb39667cc0966f8da4963cf1626"
 
 [update]
 [update.curseforge]
-file-id = 3576393
+file-id = 3693992
 project-id = 74072
-release-channel = "beta"

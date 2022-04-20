@@ -1,13 +1,16 @@
 name = "Cinnamon"
 author = "ramidzkh"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "471f3ac9f37fade40ebcfd9021c99bf40221dc8a4b817f81801c9355069374b4"
+hash = "03189a3a703d155ecfdd8426f63278dc3b4aecdd27e963455b8e04bc03be2922"
 
 [versions]
-forge = "36.2.2"
-minecraft = "1.16.5"
+forge = "40.1.0"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18.1"]

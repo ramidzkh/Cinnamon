@@ -1,14 +1,13 @@
 name = "Rhino"
-filename = "rhino-forge-1605.1.5-build.75.jar"
+filename = "rhino-forge-1801.1.9-build.135.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3525/704/rhino-forge-1605.1.5-build.75.jar"
-hash-format = "murmur2"
-hash = "1844807634"
+url = "https://edge.forgecdn.net/files/3742/385/rhino-forge-1801.1.9-build.135.jar"
+hash-format = "sha1"
+hash = "5241b1b410d0c00ce68100b269724bcaab378627"
 
 [update]
 [update.curseforge]
-file-id = 3525704
+file-id = 3742385
 project-id = 416294
-release-channel = "beta"
