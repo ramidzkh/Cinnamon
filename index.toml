@@ -66,11 +66,11 @@ hash = "9359487ebc621dc4f2f2e52aaaf80f8810a2ad1f5e5fb83ff54ba093f187f1a0"
 
 [[files]]
 file = "kubejs/server_scripts/botania_integration.js"
-hash = "489f1d4bf965ee44944ca51debf84a7cf9041db1c28a445b9ecaa622f9e26666"
+hash = "420ac1e2d902fc54f059ccba1839452dc42968c9a3ad6e7b04f1d9bb2970a546"
 
 [[files]]
 file = "kubejs/server_scripts/create_integration.js"
-hash = "2672f0cb735eefd89d7ccdede32ca28566a8ee252aab767ead599f20e85f3fa1"
+hash = "e008bc1287072bf5a414563da4c3a66929e860117f11c6518a9953b4177816ba"
 
 [[files]]
 file = "mods/appleskin.toml"
