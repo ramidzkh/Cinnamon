@@ -33,12 +33,20 @@ file = "kubejs/data/cinnamon/recipes/orechid/deepslate_tin_ore.json"
 hash = "06ec9bf0118a9e6b488cde1fc207e75ffee48c7dd5f234dd9025e993a3d376c3"
 
 [[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/deepslate_zinc_ore.json"
+hash = "519fff769083462259c1410e349d1b58252efb63684fd55c73e65e79d5886666"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/osmium_ore.json"
 hash = "cf05a6dfd2cf6b119dccacea3daf4ab3f180d758ac6355de594347c8ea747ed7"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/tin_ore.json"
 hash = "606d93577f9400bce02ab04197cc3074c8b0adb97ae3e811e53d092a633e48e3"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/zinc_ore.json"
+hash = "4e0ad6af49837b9bfa20e5bc220510f1132041968305c205bec5042a31e040e9"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid_ignem/fluorite_ore.json"
