@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/cinnamon/lang/en_us.json"
+hash = "eb464cdb0c6ba60418d7bb1b39decb920257366c06ff0ba0d1c828eb69a25393"
+
+[[files]]
+file = "kubejs/assets/cinnamon/textures/item/incomplete_rune_above_all.png"
+hash = "226ca423cca38fbb871a621535bc01cdafdbddaad54ac25ed800b31330c5f443"
+
+[[files]]
+file = "kubejs/assets/cinnamon/textures/item/the_rune_above_all.png"
+hash = "226ca423cca38fbb871a621535bc01cdafdbddaad54ac25ed800b31330c5f443"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/mana_infusion/controller.json"
 hash = "d9e223281dbe3afb31a5f0f6fb800a3ee8aa7f9fa432a3f89fe599b04592d79d"
 
@@ -61,6 +73,10 @@ file = "kubejs/data/cinnamon/recipes/runic_altar/greed.json"
 hash = "e774bdb06ab1274b18edeeea7e96edc132482826ed425cd69914b7ac848989f1"
 
 [[files]]
+file = "kubejs/data/cinnamon/recipes/sequenced_assembly/the_rune_above_all.json"
+hash = "ebe60da1f9afac8d5f66208fe89fcb42f162aa409e220efd69833263c961d3e0"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/sky_stone_block.json"
 hash = "34fdf49ae25ee8346432ad48a8a1cf3643a0f5ff31d623a98bd4afe29a15d685"
 
@@ -82,11 +98,15 @@ hash = "9359487ebc621dc4f2f2e52aaaf80f8810a2ad1f5e5fb83ff54ba093f187f1a0"
 
 [[files]]
 file = "kubejs/server_scripts/botania_integration.js"
-hash = "83af353581ec389d00b9dc2e778f7b0fef2ea7dd75e749b51cc45172229cdf8e"
+hash = "5df0ce02c806fd3dcd3638ae40dcca7e378de9136b4e4af72162c20d8a7e3208"
 
 [[files]]
 file = "kubejs/server_scripts/create_integration.js"
 hash = "e008bc1287072bf5a414563da4c3a66929e860117f11c6518a9953b4177816ba"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "ded50ad8a26e7485f24ddeca2cd3b21d9350f06be0ef5e1a81280d027603ec52"
 
 [[files]]
 file = "mods/appleskin.toml"

@@ -1,0 +1,306 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "botania:tiny_potato"
+  },
+  "transitionalItem": {
+    "item": "cinnamon:incomplete_rune_above_all"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:elementium_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:terrasteel_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_water"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_fire"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_earth"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_air"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_spring"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_summer"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_autumn"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_winter"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_mana"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_lust"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_gluttony"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_greed"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_sloth"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_wrath"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_envy"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        },
+        {
+          "item": "botania:rune_pride"
+        }
+      ],
+      "results": [
+        {
+          "item": "cinnamon:incomplete_rune_above_all"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "cinnamon:the_rune_above_all",
+      "count": 6
+    }
+  ],
+  "loops": 2
+}
