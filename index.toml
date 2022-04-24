@@ -94,7 +94,7 @@ hash = "e774bdb06ab1274b18edeeea7e96edc132482826ed425cd69914b7ac848989f1"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/sequenced_assembly/the_rune_above_all.json"
-hash = "ebe60da1f9afac8d5f66208fe89fcb42f162aa409e220efd69833263c961d3e0"
+hash = "a604a43c716facef6c99f3a030732e1850b78b17f8d3ee6d651a3cea1789a6d2"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/sky_stone_block.json"

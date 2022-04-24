@@ -14,22 +14,6 @@
           "item": "cinnamon:incomplete_rune_above_all"
         },
         {
-          "item": "botania:elementium_nugget"
-        }
-      ],
-      "results": [
-        {
-          "item": "cinnamon:incomplete_rune_above_all"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "cinnamon:incomplete_rune_above_all"
-        },
-        {
           "item": "botania:terrasteel_nugget"
         }
       ],
