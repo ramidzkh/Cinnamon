@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/coal"
+    },
+    {
+      "tag": "forge:dusts/coal"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    },
+    {
+      "tag": "forge:dusts/iron"
+    },
+    {
+      "tag": "forge:dusts/obsidian"
+    }
+  ],
+  "result": {
+    "item": "cinnamon:mafic_minerals",
+    "count": 6
+  }
+}

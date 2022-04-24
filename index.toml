@@ -2,15 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/assets/cinnamon/lang/en_us.json"
-hash = "eb464cdb0c6ba60418d7bb1b39decb920257366c06ff0ba0d1c828eb69a25393"
+hash = "82ad040c4db4aa5d6c4cd75bf1f87639cb470aeb5df0e341531aca281401c4ea"
 
 [[files]]
 file = "kubejs/assets/cinnamon/textures/item/incomplete_rune_above_all.png"
 hash = "226ca423cca38fbb871a621535bc01cdafdbddaad54ac25ed800b31330c5f443"
 
 [[files]]
+file = "kubejs/assets/cinnamon/textures/item/mafic_minerals.png"
+hash = "a011d7dbc4f865768b3e88be5fbc03d236e5752c0cab8c2fc2ca3a3fda5ef115"
+
+[[files]]
 file = "kubejs/assets/cinnamon/textures/item/the_rune_above_all.png"
 hash = "226ca423cca38fbb871a621535bc01cdafdbddaad54ac25ed800b31330c5f443"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/combining/cobbled_deepslate.json"
+hash = "6d8b50f2b02f826aaa730e028d33416316deb8de2b03d48f20195225f630f346"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/mafic_minerals.json"
+hash = "dc3d3c9fb3d5f5f4d4abc5919d26ec8f49ef1d1c7e9d618b4e79e92c9b63311b"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/mana_infusion/controller.json"
@@ -37,6 +49,10 @@ file = "kubejs/data/cinnamon/recipes/orechid/deepslate_certus_quartz_ore.json"
 hash = "7affe2682dd05378373608768537a1399fca9c7127ff53167f221d378e8f699a"
 
 [[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/deepslate_lead_ore.json"
+hash = "53efc8c8b156fdd9b8282262223336cf5265b06521d336944a0360c23fa5557a"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/deepslate_osmium_ore.json"
 hash = "6d783680b9ee6370790c1779c3216587525f75ab179266466783e9a48ddd4045"
 
@@ -47,6 +63,10 @@ hash = "06ec9bf0118a9e6b488cde1fc207e75ffee48c7dd5f234dd9025e993a3d376c3"
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/deepslate_zinc_ore.json"
 hash = "519fff769083462259c1410e349d1b58252efb63684fd55c73e65e79d5886666"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/lead_ore.json"
+hash = "c52318e935eadd07d51c3cf7805e45354a51afc4342da6f238127bcef0afae81"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/osmium_ore.json"
@@ -106,7 +126,7 @@ hash = "e008bc1287072bf5a414563da4c3a66929e860117f11c6518a9953b4177816ba"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "ded50ad8a26e7485f24ddeca2cd3b21d9350f06be0ef5e1a81280d027603ec52"
+hash = "cf1444043c32da34f775efffd3f8f12c1e0b9668f864c90f1b7396fa0a4f02ce"
 
 [[files]]
 file = "mods/appleskin.toml"
