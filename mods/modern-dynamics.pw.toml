@@ -1,0 +1,13 @@
+name = "Modern Dynamics"
+filename = "Modern-Dynamics-0.2.3-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a22e4b4b4b64148970c1922796ca32fb20eb4700"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855800
+project-id = 552758

@@ -1,0 +1,13 @@
+name = "Better Loading Screen"
+filename = "better-loading-screen-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ead3998a3a7efbb5f9998e07e9f5be9302d87997"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3722046
+project-id = 594044

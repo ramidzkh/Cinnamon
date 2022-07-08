@@ -3,7 +3,7 @@
   "input": "minecraft:stone",
   "output": {
     "type": "block",
-    "block": "modern_industrialization:tin_ore"
+    "block": "modern_industrialization:nickel_ore"
   },
-  "weight": 3500
+  "weight": 2647
 }

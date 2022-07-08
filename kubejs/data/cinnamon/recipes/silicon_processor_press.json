@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:silicon"
+    },
+    {
+      "item": "modern_industrialization:iron_large_plate"
+    }
+  ],
+  "result": {
+    "item": "ae2:silicon_press"
+  }
+}

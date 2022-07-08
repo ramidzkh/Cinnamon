@@ -7,10 +7,10 @@
   ],
   "key": {
     "P": {
-      "tag": "forge:dusts/mana"
+      "tag": "botania:mana_dusts"
     },
     "C": {
-      "tag": "forge:cobblestone"
+      "tag": "c:cobblestone"
     }
   },
   "result": {

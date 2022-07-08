@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:diamonds"
+    },
+    {
+      "item": "modern_industrialization:iron_large_plate"
+    }
+  ],
+  "result": {
+    "item": "ae2:engineering_processor_press"
+  }
+}

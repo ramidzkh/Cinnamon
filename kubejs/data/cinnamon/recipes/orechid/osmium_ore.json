@@ -1,9 +1,0 @@
-{
-  "type": "botania:orechid",
-  "input": "minecraft:stone",
-  "output": {
-    "type": "block",
-    "block": "mekanism:osmium_ore"
-  },
-  "weight": 2647
-}

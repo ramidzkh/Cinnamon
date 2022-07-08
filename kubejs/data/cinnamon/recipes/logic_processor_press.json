@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:gold_ingots"
+    },
+    {
+      "item": "modern_industrialization:iron_large_plate"
+    }
+  ],
+  "result": {
+    "item": "ae2:logic_processor_press"
+  }
+}

@@ -1,8 +1,0 @@
-name = "Mantle"
-filename = "Mantle-1.18.2-1.9.18.jar"
-side = "both"
-
-[download]
-url = "https://dvs1.progwml6.com/files/maven/slimeknights/mantle/Mantle/1.18.2-1.9.18/Mantle-1.18.2-1.9.18.jar"
-hash-format = "sha1"
-hash = "8473277988097e270734318c2422695a8f21f857"

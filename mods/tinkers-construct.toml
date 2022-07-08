@@ -1,8 +1,0 @@
-name = "Tinkers Construct"
-filename = "TConstruct-1.18.2-3.5.0.6.jar"
-side = "both"
-
-[download]
-url = "https://dvs1.progwml6.com/files/maven/slimeknights/tconstruct/TConstruct/1.18.2-3.5.0.6/TConstruct-1.18.2-3.5.0.6.jar"
-hash-format = "sha1"
-hash = "1838ddd8eec03cafb66c0bf38ce7ead6cc515748"

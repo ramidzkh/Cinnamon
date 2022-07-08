@@ -3,7 +3,7 @@
   "input": "botania:livingrock",
   "output": {
     "type": "block",
-    "block": "mekanism:uranium_ore"
+    "block": "modern_industrialization:uranium_ore"
   },
   "weight": 10
 }
