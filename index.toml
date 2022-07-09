@@ -279,3 +279,8 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "6f6f9795b9317427dce5d7d4970ed71307b0141b8490cdcef1b19a4c8c100c66"
 metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "08c07bd09429bc90bb34e0692cf2292219398c551c1b802722da03810e07f547"
+metafile = true
