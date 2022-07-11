@@ -13,6 +13,10 @@ file = "kubejs/assets/cinnamon/textures/item/the_rune_above_all.png"
 hash = "226ca423cca38fbb871a621535bc01cdafdbddaad54ac25ed800b31330c5f443"
 
 [[files]]
+file = "kubejs/data/botania/recipes/orechid/coal_ore.json"
+hash = "2b574afc7258c60d71c4f78dda2c3a91e30e79f6061126c1502ade07ce3d1544"
+
+[[files]]
 file = "kubejs/data/botania/recipes/runic_altar/greed.json"
 hash = "18789c04fda5a82eb845d7f2c3a2f624ff03292f948d1edf1963ffab4489be5d"
 
@@ -101,6 +105,11 @@ file = "kubejs/startup_scripts/items.js"
 hash = "ded50ad8a26e7485f24ddeca2cd3b21d9350f06be0ef5e1a81280d027603ec52"
 
 [[files]]
+file = "mods/ae2things.pw.toml"
+hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "003a7bf924d0ed3666ff3396036869b3eb67e38ecb7749aa6c061d5367c2053b"
 metafile = true
@@ -181,6 +190,11 @@ hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "d6fe7bafcf70423e17d05f3d21a502ca31a1115db4b5e774a95df611dae248a4"
 metafile = true
@@ -211,6 +225,11 @@ hash = "e5c1deaa89032a056907c12ce59f87bbd96c0987a3c2ae1920c6189732379354"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "17b0e44b0b415420e5b99252e1a5f2c7e951a16eac2ba12ae63e99d98012cca0"
 metafile = true
@@ -228,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "f75ffe6f368233a0a15fcc56ade9e4ae9191334efead6340e4b2f2fd3fa586ec"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
