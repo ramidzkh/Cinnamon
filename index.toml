@@ -45,6 +45,10 @@ file = "kubejs/data/cinnamon/recipes/mana_infusion/seagrass_to_kelp.json"
 hash = "0566a090ccfc6beec1fa79b24305f78feec7decfdfbd69b7cd9c9b6ac3b5e2e9"
 
 [[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/antimony_ore.json"
+hash = "4c8ddc5e4fcf318453664c30b116bfe0692d55048c6d7194f32bfa114603e41d"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/certus_quartz_ore.json"
 hash = "2e540ee5df4ead6965bb691a7b3e9b9e8fa891e1f68619e4bc33bcccc99ed1fa"
 
