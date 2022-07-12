@@ -69,6 +69,10 @@ file = "kubejs/data/cinnamon/recipes/orechid/deepslate_zinc_ore.json"
 hash = "519fff769083462259c1410e349d1b58252efb63684fd55c73e65e79d5886666"
 
 [[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/lead_ore.json"
+hash = "bf1700be2ff12aafc6efd800fab2da48c81736634c82040abccb85694329ae7a"
+
+[[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/nickel_ore.json"
 hash = "9f0aae4d444bfc875ec7866ab810151064f741f31d60aef08826d7ef7b17fd42"
 
