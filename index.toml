@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "f05034a85ccec206f73aed4b291acfa08a4c6f5643407ff98c6f40876a95fdc5"
+
+[[files]]
 file = "kubejs/assets/cinnamon/lang/en_us.json"
 hash = "eb464cdb0c6ba60418d7bb1b39decb920257366c06ff0ba0d1c828eb69a25393"
 
@@ -105,6 +109,11 @@ file = "kubejs/startup_scripts/items.js"
 hash = "ded50ad8a26e7485f24ddeca2cd3b21d9350f06be0ef5e1a81280d027603ec52"
 
 [[files]]
+file = "mods/advancements-enlarger.pw.toml"
+hash = "2a892a23a2911316f082efb275c528d53bdd556b2f5c7dbaee15f40fd59c6670"
+metafile = true
+
+[[files]]
 file = "mods/ae2things.pw.toml"
 hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
 metafile = true
@@ -190,6 +199,11 @@ hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
@@ -215,8 +229,18 @@ hash = "4e49681df144935cd936b290b6bcfb88bd91cca0043df56e788be1ba4ec9459c"
 metafile = true
 
 [[files]]
+file = "mods/i-am-very-smart.pw.toml"
+hash = "4933061c17fb6680d6820044910114ff60216416ddad836ba61c3951ad838edd"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "defe36330eab9fc6d45a5bcdbd5b20b67ad79b9ee599f086683172fc129be5de"
 metafile = true
 
 [[files]]
@@ -246,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "f75ffe6f368233a0a15fcc56ade9e4ae9191334efead6340e4b2f2fd3fa586ec"
+hash = "f62473fe712df3c11deef509ba6759d815f2f31d881ea7cd87434f61ce77bf07"
 metafile = true
 
 [[files]]
@@ -281,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "55c91535c1f07a0718aee9b23cc355df43aeb5003a3d57fc3e26fd6c72f5adb6"
+hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
 metafile = true
 
 [[files]]

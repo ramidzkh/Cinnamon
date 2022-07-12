@@ -1,0 +1,13 @@
+name = "I Am Very Smart (Fabric)"
+filename = "i-am-very-smart-2.1.0+mc1.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fdcc43d3bcaab555d23ea66edf341467cc61182"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2992677
+project-id = 318163
