@@ -3,7 +3,7 @@
   "input": "minecraft:stone",
   "output": {
     "type": "block",
-    "block": "modern_industrialization:lead_ore"
+    "block": "modern_industrialization:bauxite_ore"
   },
-  "weight": 6500
+  "weight": 7000
 }

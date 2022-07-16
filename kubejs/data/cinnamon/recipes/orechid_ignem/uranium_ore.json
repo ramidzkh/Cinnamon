@@ -1,9 +1,0 @@
-{
-  "type": "botania:orechid_ignem",
-  "input": "botania:livingrock",
-  "output": {
-    "type": "block",
-    "block": "modern_industrialization:uranium_ore"
-  },
-  "weight": 10
-}

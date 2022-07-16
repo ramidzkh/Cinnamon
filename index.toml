@@ -46,7 +46,11 @@ hash = "0566a090ccfc6beec1fa79b24305f78feec7decfdfbd69b7cd9c9b6ac3b5e2e9"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/antimony_ore.json"
-hash = "4c8ddc5e4fcf318453664c30b116bfe0692d55048c6d7194f32bfa114603e41d"
+hash = "0b7b5c84695a6826b1b03afc61302db33115f06663b23ec32203ff844ed2a2a8"
+
+[[files]]
+file = "kubejs/data/cinnamon/recipes/orechid/bauxite_ore.json"
+hash = "d5114ab8229336b670ab1eb38d9339f7a98933bc37178c863fedf6c8ee7ea37d"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/certus_quartz_ore.json"
@@ -70,7 +74,7 @@ hash = "519fff769083462259c1410e349d1b58252efb63684fd55c73e65e79d5886666"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/lead_ore.json"
-hash = "bf1700be2ff12aafc6efd800fab2da48c81736634c82040abccb85694329ae7a"
+hash = "64dcad2848196bc8b589ad4c3dc88e0cd2bc4db7903be9531359c459d6c5b211"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/nickel_ore.json"
@@ -83,10 +87,6 @@ hash = "1d209a110e0c152e22f5c189b6dc26efd4c6addc440a1bf599055ba9942a3e85"
 [[files]]
 file = "kubejs/data/cinnamon/recipes/orechid/zinc_ore.json"
 hash = "4e0ad6af49837b9bfa20e5bc220510f1132041968305c205bec5042a31e040e9"
-
-[[files]]
-file = "kubejs/data/cinnamon/recipes/orechid_ignem/uranium_ore.json"
-hash = "26a00ba8e9482032a0fd376b5730ff860536ed5e1cf2b58cbb5cf26ccb87b036"
 
 [[files]]
 file = "kubejs/data/cinnamon/recipes/sequenced_assembly/the_rune_above_all.json"
@@ -115,6 +115,11 @@ hash = "dd7011cde74831eb60118df66fe9f177ab0b4a8eea7646abccaa7478e942218d"
 [[files]]
 file = "kubejs/startup_scripts/items.js"
 hash = "ded50ad8a26e7485f24ddeca2cd3b21d9350f06be0ef5e1a81280d027603ec52"
+
+[[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
+metafile = true
 
 [[files]]
 file = "mods/advancements-enlarger.pw.toml"
@@ -154,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
 metafile = true
 
 [[files]]
@@ -214,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void-fabric.pw.toml"
+hash = "8dcf1c1fbeb898edf24272add1b34e490c9e6d617f2a5870a97df50d860fddf9"
 metafile = true
 
 [[files]]
@@ -294,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.pw.toml"
+hash = "441186796c072c4147b6aa43de0725a6715fd3abc5d1ff6117fb45049055c49e"
 metafile = true
 
 [[files]]
