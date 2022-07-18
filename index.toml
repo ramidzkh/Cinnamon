@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-botanics-addon.pw.toml"
-hash = "c8893373d01bd6309fa7af8160fe5a9ed6ede0fd012920cee5c4be2d0fca5e67"
+hash = "e97592910273d937c0eb88c973e7cec77ed58d7d42711c8d215d76ca70a0d144"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e5c1deaa89032a056907c12ce59f87bbd96c0987a3c2ae1920c6189732379354"
+hash = "855e0719b4197d739e61461e3be8bebf9a660d7db272bf2881582e16ca217fa1"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "f3bdb95238eb359db4307fafbbd02864f51f939119bafbab3b994a4a549a3aad"
+hash = "19a8b380e9091822bf638e04b8efb3fbc8c3c603bf64d809474c7ac0a3fd16d3"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "fab7b46eb6df4a61c38635a09aaba428e7c187fda9a517ff7ff46052dfe9842b"
+hash = "0198ce355de8058c593c5aed072e78cd3941768123f92b6bd18628bf46b9c300"
 metafile = true
 
 [[files]]
